@@ -19,12 +19,26 @@ Search Youtube for a suitable business case example on data driven decision maki
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Overall, Netflix provides an improved personalized customer experienced based on data analytics and decision making. (5 minutes learning, 2021). 
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Netflix has multiple uses of data analytics to make business decisions based on data:
+
+- Link prediction (recommendations of videos after watching one based on content-based filtering (see figure 1))
+- Regression (determine a numerical value on how much someone is likely to watch a different show, based on historical consumer data)
+- Profiling (they make up a typical profile of groupings to determine what features a new show should have so that the profiles of the mass would like the show (based on the available data)) An example of such show is House of Cards (5 minutes learning, 2021).
+- Success rate prediction of shows. Netflix predicts the success rate of shows based on data analytics to give shape to shows (house of cards). This success rate is said to have led to 80% of Netflix shows being a 'success' according to 5 minutes learning, 2021. This predicament of a success rate has also led to helping Netflix decrease promotional activities and campaigns.
+- Co-occurence grouping. Someone watches show A after finishing show B. Another person watches show B and finishes it. Netflix then recommends show A to the other person based on what the first person watched in combination with show A.This data mining methodology is displayed under collaborative filtering in figure 1. 
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+- Create a success rate for shows. The rate is created through creating algorithms (data mining) (5 minutes learning, 2021). 
+- Improve the personalized customer experience.
+- Make shows in a way that they are conform the wants of the customer.
+
+
+EMBED PICTURE
+
+![Netflix uses both filterings below in a hybrid way - 5 minutes learning](C:\Users\luc41\OneDrive\Documenten\3DMiB\Data science for business)
+
