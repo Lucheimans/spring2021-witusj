@@ -12,7 +12,7 @@ Search Youtube for a suitable business case example on data driven decision maki
 
 <---- Watch this video if you don't know how to embed video's ---->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/6GZzrugo8rY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <---- Replace this video with your business case example ---->
 
@@ -39,6 +39,4 @@ Netflix has multiple uses of data analytics to make business decisions based on 
 
 
 EMBED PICTURE
-
-![Netflix uses both filterings below in a hybrid way - 5 minutes learning](C:\Users\luc41\OneDrive\Documenten\3DMiB\Data science for business)
 
